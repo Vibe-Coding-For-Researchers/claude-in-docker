@@ -1,6 +1,10 @@
 # claude-in-docker
 empty project for a quick setup of Claude in Docker+VSCode
 
+Run: npm install -g @anthropic-ai/claude-code
+Type claude
+then authenticate
+
 Motivation + bonus step-by-step github authorization setting here: [timsh.org](https://timsh.org/claude-inside-docker/)
 
 # Prerequisites: 
